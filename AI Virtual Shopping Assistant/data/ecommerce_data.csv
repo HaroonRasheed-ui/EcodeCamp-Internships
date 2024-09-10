@@ -1,0 +1,41 @@
+UserID,ProductID,ProductName,Category,Price
+1,1,Apple Watch,Electronics,235.42
+2,2,Samsung TV,Electronics,919.79
+3,3,Sony Headphones,Electronics,373.4
+4,4,Google Phone,Electronics,973.28
+5,5,Microsoft Laptop,Electronics,338.98
+6,6,Canon Camera,Electronics,318.19
+7,7,HP Printer,Electronics,729.85
+8,8,Dell Computer,Electronics,986.24
+9,9,Asus Laptop,Electronics,321.26
+10,10,Google Home,Electronics,726.15
+11,11,Nike Shoes,Fashion,729.53
+12,12,Adidas Shirt,Fashion,789.32
+13,13,Reebok Shoes,Fashion,139.75
+14,14,Puma Socks,Fashion,277.62
+15,15,Under Armour Hat,Fashion,744.55
+16,16,Levi's Jeans,Fashion,11.14
+17,17,H&M Shirt,Fashion,983.0
+18,18,Zara Dress,Fashion,747.74
+19,19,Gucci Belt,Fashion,529.72
+20,20,Prada Handbag,Fashion,153.98
+21,21,KitchenAid Mixer,Home Goods,89.32
+22,22,Le Creuset Cookware,Home Goods,419.34
+23,23,Dyson Vacuum,Home Goods,637.01
+24,24,Bose Speaker,Home Goods,413.55
+25,25,LG TV,Home Goods,364.15
+26,26,Whirlpool Refrigerator,Home Goods,577.73
+27,27,Maytag Washing Machine,Home Goods,66.91
+28,28,KitchenAid Toaster,Home Goods,226.85
+29,29,Cuisinart Blender,Home Goods,457.89
+30,30,Breville Coffee Maker,Home Goods,822.29
+31,31,Wilson Basketball,Sports,308.55
+32,32,Spalding Football,Sports,273.68
+33,33,Rawlings Baseball,Sports,722.25
+34,34,Under Armour Hat,Sports,400.89
+35,35,Nike Soccer Ball,Sports,381.3
+36,36,Adidas Golf Clubs,Sports,230.27
+37,37,Reebok Running Shoes,Sports,322.1
+38,38,Puma Cricket Bat,Sports,628.67
+39,39,Golf Clubs,Sports,136.21
+40,40,Tennis Racket,Sports,591.63
